@@ -54,7 +54,7 @@ No action is required from your end, except for the following cases:
 
 The platform transition is scheduled for 9 August 2026 (Sunday).
 
-To facilitate this transition, **WaveMaker Online (WMO)** and **WaveMaker.ai** will undergo a planned maintenance window from **6:00 AM to 12:00 PM IST**
+To facilitate this transition, **WaveMaker Online (WMO)** and **WaveMaker.ai** will undergo a planned maintenance window from **00:30 – 06:30 UTC**
 
 During this period, both platforms will be unavailable.
 
