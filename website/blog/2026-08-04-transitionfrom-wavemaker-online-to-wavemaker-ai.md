@@ -3,6 +3,10 @@ title: "Transition from WaveMaker Online to WaveMaker.ai"
 author: "Neha Shailendra"
 ---
 
+:::info 📢 Update (8 August 2026)
+*The planned transition from WaveMaker Online to WaveMaker AI, originally scheduled for August 9, has been postponed by one week to allow for additional validation and testing. This extra time will help us ensure a smooth and reliable transition. We appreciate your patience and will share the revised release date and any further updates soon.*
+:::
+
 ## A Unified Platform for the Future of Enterprise Application Development
 
 Over the past year, **WaveMaker.ai** has evolved from an AI-powered assistant into the primary platform for building the next generation of enterprise applications with WaveMaker.
