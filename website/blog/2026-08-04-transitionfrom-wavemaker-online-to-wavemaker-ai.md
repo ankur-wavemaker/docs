@@ -4,7 +4,7 @@ author: "Neha Shailendra"
 ---
 
 :::info 📢 Update (8 August 2026)
-*The planned transition from WaveMaker Online to WaveMaker AI, originally scheduled for August 9, has been postponed by one week to allow for additional validation and testing. This extra time will help us ensure a smooth and reliable transition. We appreciate your patience and will share the revised release date and any further updates soon.*
+*The planned transition from **WaveMaker Online** to **WaveMaker.ai**, originally scheduled for **9 August 2026**, has been postponed by **one week** and is now scheduled for **16 August 2026**. This additional time will allow us to complete further validation and testing to ensure a smooth and reliable transition. We appreciate your patience and understanding and will continue to share any further updates as needed.*
 :::
 
 ## A Unified Platform for the Future of Enterprise Application Development
