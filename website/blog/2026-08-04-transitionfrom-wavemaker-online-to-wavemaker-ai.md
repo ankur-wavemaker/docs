@@ -31,7 +31,7 @@ All your existing projects will continue to be fully supported. When you open th
 
 ### New Projects
 
-All new projects created in **WaveMaker.ai** will be created as Prism (Design System) projects by default and will open in the latest WaveMaker Studio with **Design Tokens** support.
+All new projects created in **WaveMaker.ai** will be created as Design System projects by default and will open in the latest WaveMaker Studio with **Design Tokens** support.
 
 This approach allows you to continue maintaining existing applications while taking advantage of the latest platform innovations for new development.
 
@@ -64,7 +64,7 @@ This planned downtime is required to ensure a smooth and successful transition. 
 
 **Will my existing projects be affected?**
 
-No. Existing non-Prism projects will continue to work as before and will open in the existing WaveMaker Studio.
+No. Existing non-Design System projects will continue to work as before and will open in the existing WaveMaker Studio.
 
 **Will I lose any projects or data?**
 
@@ -74,9 +74,9 @@ No. Your workspace, projects, and development artifacts will be migrated to Wave
 
 Existing WaveMaker Online URLs will automatically redirect to WaveMaker.ai. However, we recommend updating your bookmarks to the new URL for convenience.
 
-**Will all new projects use Prism?**
+**Will all new projects use Design System?**
 
-Yes. New projects created on WaveMaker.ai will be created as Prism projects by default.
+Yes. New projects created on WaveMaker.ai will be created as Design System projects by default.
 
 **Does this transition apply to WaveMaker Enterprise (WME)?**
 
