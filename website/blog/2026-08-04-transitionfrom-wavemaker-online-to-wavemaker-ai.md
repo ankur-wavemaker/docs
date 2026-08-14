@@ -3,9 +3,9 @@ title: "Transition from WaveMaker Online to WaveMaker.ai"
 author: "Neha Shailendra"
 ---
 
-:::info 📢 Update (8 August 2026)
-*The planned transition from **WaveMaker Online** to **WaveMaker.ai**, originally scheduled for **9 August 2026**, has been postponed by **one week** and is now scheduled for **16 August 2026**. This additional time will allow us to complete further validation and testing to ensure a smooth and reliable transition. We appreciate your patience and understanding and will continue to share any further updates as needed.*
-:::
+📢 Update (14 August 2026)
+*The WaveMaker Online to WaveMaker.ai transition is scheduled for 16 August 2026 (Sunday), with planned downtime from 00:30 – 06:30 UTC*
+
 
 ## A Unified Platform for the Future of Enterprise Application Development
 
@@ -17,7 +17,7 @@ This milestone enables us to deliver new capabilities faster, simplify platform 
 
 ## What's Changing?
 
-Starting 10 August 2026, accessing [www.wavemakeronline.com](https://www.wavemakeronline.com) will automatically redirect you to [platform.wavemaker.ai](https://platform.wavemaker.ai).
+Starting 17 August 2026, accessing [www.wavemakeronline.com](https://www.wavemakeronline.com) will automatically redirect you to [platform.wavemaker.ai](https://platform.wavemaker.ai).
 
 As part of this transition:
 
@@ -56,7 +56,7 @@ No action is required from your end, except for the following cases:
 
 ## Planned Transition Window
 
-The platform transition is scheduled for 9 August 2026 (Sunday).
+The platform transition is scheduled for 16 August 2026 (Sunday).
 
 To facilitate this transition, **WaveMaker Online (WMO)** and **WaveMaker.ai** will undergo a planned maintenance window from **00:30 – 06:30 UTC**
 
@@ -65,6 +65,10 @@ During this period, both platforms will be unavailable.
 This planned downtime is required to ensure a smooth and successful transition. We recommend planning your work accordingly to avoid any disruption.
 
 ## Questions
+
+**How does this transition affect me?**
+
+Accessing [www.wavemakeronline.com](https://www.wavemakeronline.com) will automatically redirect you to [platform.wavemaker.ai](https://platform.wavemaker.ai). We recommend updating your bookmarks to the new URL for easy access.
 
 **Will my existing projects be affected?**
 
