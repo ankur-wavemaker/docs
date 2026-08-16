@@ -42,15 +42,15 @@ The following are the outbound properties of a Calendar widget that can be captu
 
 - The _Month_ view of the Calendar displays all the days in the month. 
     
-<iframe width="100%" height="715" style={{backgroundColor: "snow"}} allowtransparency="true" src="https://apps.wavemakeronline.com/documentation_snippets/#/CalendarMonthView">Calendar Month View</iframe>
+<iframe width="100%" height="715" style={{backgroundColor: "snow"}} allowtransparency="true" src="https://apps-platform.wavemaker.ai/wm-platform-apps/documentation_snippets/#/CalendarMonthView">Calendar Month View</iframe>
     
 - The _Week_ view of the Calendar displays all the days in the week. 
     
-<iframe width="100%" height="715" style={{backgroundColor: "snow"}} allowtransparency="true" src="https://apps.wavemakeronline.com/documentation_snippets/#/CalendarWeekView">Calendar Week View</iframe>
+<iframe width="100%" height="715" style={{backgroundColor: "snow"}} allowtransparency="true" src="https://apps-platform.wavemaker.ai/wm-platform-apps/documentation_snippets/#/CalendarWeekView">Calendar Week View</iframe>
     
 - The _Day_ view of the Calendar displays all the events on the day. 
     
-<iframe width="100%" height="715" style={{backgroundColor: "snow"}} allowtransparency="true" src="https://apps.wavemakeronline.com/documentation_snippets/#/CalendarDayView">Calendar Day View</iframe>
+<iframe width="100%" height="715" style={{backgroundColor: "snow"}} allowtransparency="true" src="https://apps-platform.wavemaker.ai/wm-platform-apps/documentation_snippets/#/CalendarDayView">Calendar Day View</iframe>
     
 
 ## Properties
